@@ -15,4 +15,4 @@ Clone the Project
 ### `npm start`
 
 
-The application by defauilt will listen on `port 3000`
+The application by default will listen on `port 3000`
