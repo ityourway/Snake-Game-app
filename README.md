@@ -8,7 +8,9 @@ Clone the Project
 
 ### `cd to the project folder`
 
-### `run npm install`
+## run: 
+
+### `npm install`
 
 ### `npm start`
 
