@@ -1,13 +1,13 @@
 /* index.css */
 body { 
-	background-color: #1e1e1e; 
+	background-color: #608183; 
 } 
 
 .game-area { 
 	position: relative; 
 	width: 600px; 
 	height: 500px; 
-	border: 2px solid #dc042c; 
+	border: 5px solid #dc042c; 
 	border-radius: 10px; 
 	margin: 50px auto; 
 	display: flex; 
