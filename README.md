@@ -1,9 +1,16 @@
 # Getting Started with Create React App
 
+Need these installed on the server:
+### `nodejs`
+### `npm` 
 
-In the project directory, you can run:
+Clone the Project
+
+### `cd to the project folder`
+
+### `run npm install`
 
 ### `npm start`
 
 
-The application by defauilt will listen on port 3000
+The application by defauilt will listen on `port 3000`
